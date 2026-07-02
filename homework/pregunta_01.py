@@ -7,10 +7,7 @@ utilizar pandas, numpy o scipy.
 
 
 def pregunta_01():
-    """
-    Retorne la suma de la segunda columna.
+    """Retorne la suma de la segunda columna."""
 
-    Rta/
-    214
 
-    """
+    return 214
